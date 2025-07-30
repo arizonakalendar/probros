@@ -1,0 +1,23 @@
+############################
+## CHANGE THESE
+############################
+
+baseURL: "https://tg.kazantattoofest.ru"
+title: Казань
+
+############################
+## MODULES
+############################
+
+module:
+  imports:
+    - path: github.com/chrede88/L1nkr
+
+############################
+## MISC
+############################
+
+enableEmoji: true
+disableKinds: ["taxonomy", "term"]
+languageCode: "en-us"
+enableRobotsTXT: true

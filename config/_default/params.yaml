@@ -1,0 +1,54 @@
+############################
+## Author
+############################
+
+author:
+  name: Sergeicz
+  image: author.png
+  greeting: "Тату Фест"
+  icon: ":fire:"
+
+############################
+## Links
+############################
+
+links:
+  - website : https://kazantattoofest.ru/?utm_source=iz_probrosa&utm_medium=avto&utm_campaign=kazan_tatu_fest
+  - telegram: https://click.tgtrack.ru/599f7d0dab47a1?tag=nazhal_knopku
+
+############################
+## Colunms of Links
+############################
+
+monochrome: true
+
+# between 2 & 6 columns are supported (both incl)
+columns: 2
+
+###########################
+## Icon text
+###########################
+
+# add the icon name to each icon
+icontext: false
+
+############################
+## Tooltips
+############################
+
+# add tooltips on all icons
+tooltip: false
+
+###############################
+## OpenGraph & Twitter Cards
+###############################
+
+title: zu_im
+description: "Demo site build with L1nkr & Hugo"
+images:
+  - thumbnail.png
+
+params:
+  social_icons:
+    - name: "vk"
+      icon: "vk"
